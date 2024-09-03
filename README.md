@@ -1,2 +1,2 @@
 # Myntra_Clone
-This a Myntra clone using HTML and CSS:)
+This is a Myntra clone using HTML and CSS:)
